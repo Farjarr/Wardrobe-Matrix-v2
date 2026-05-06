@@ -1,1 +1,1 @@
-module.exports = require('../artifacts/api-server/dist/index.mjs');
+export { default } from '../artifacts/api-server/dist/index.mjs';
