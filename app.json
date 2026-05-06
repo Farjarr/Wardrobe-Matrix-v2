@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7292ec38-4799-4437-b627-20c2080b1421"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.fajarmdhn.workspace",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}

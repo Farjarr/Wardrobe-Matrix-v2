@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "buildCommand": "node ./build.mjs",
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api" },
+    { "source": "/(.*)", "destination": "/api" }
+  ]
+}

@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "L_ewQnrJW9n7bWcHw3y-B"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "wardrobe app icon"
